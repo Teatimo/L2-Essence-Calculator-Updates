@@ -5,7 +5,7 @@
 Посмотрите, сколько чистой адены и опыта приносит фарм, сколько руды уходит на умения и какая локация выгоднее для вашего персонажа. В Windows-версии доступны **все 46 классов восьми рас**.
 
 [📥 Скачать для Windows](https://github.com/Teatimo/L2-Essence-Calculator-Updates/releases/latest) · [📱 Открыть в Telegram](https://t.me/L2EssenceCalcBot) · [🛒 Приобрести подписку](https://funpay.com/users/11571233/) · [📋 История обновлений](https://github.com/Teatimo/L2-Essence-Calculator-Updates/releases)
-![L2 Essence Calculator — Windows и Telegram](images/cover.png)****
+![L2 Essence Calculator — Windows и Telegram](images/cover.png)
 
 ## 🚀 Возможности
 
@@ -78,6 +78,30 @@
 **[Купить или продлить подписку на FunPay](https://funpay.com/users/11571233/)**
 
 По вопросам установки, активации и продления обращайтесь к продавцу через чат заказа.
+
+## Возможности программы
+
+### Расход руды
+Выбор класса и умений, настройка расхода и таймеров.
+
+![Расчёт расхода руды](images/ore.png)
+
+### Фарм и опыт
+Расчёт чистой адены и опыта за замер, час и сутки.
+
+![Расчёт фарма и опыта](images/farm-xp.png)
+
+### Локации и история замеров
+Сравнение результатов, сохранение замеров и заметок.
+
+![Локации и история замеров](images/locations.png)
+
+### Telegram-версия
+Калькулятор доступен также в Telegram.
+
+![Калькулятор в Telegram](images/telegram.png)
+
+[Открыть Telegram-бота](https://t.me/L2EssenceCalcBot)
 
 ## ℹ️ О приложении
 
