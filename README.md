@@ -5,6 +5,7 @@
 Посмотрите, сколько чистой адены и опыта приносит фарм, сколько руды уходит на умения и какая локация выгоднее для вашего персонажа. В Windows-версии доступны **все 46 классов восьми рас**.
 
 [📥 Скачать для Windows](https://github.com/Teatimo/L2-Essence-Calculator-Updates/releases/latest) · [📱 Открыть в Telegram](https://t.me/L2EssenceCalcBot) · [🛒 Приобрести подписку](https://funpay.com/users/11571233/) · [📋 История обновлений](https://github.com/Teatimo/L2-Essence-Calculator-Updates/releases)
+![L2 Essence Calculator — Windows и Telegram](images/cover.png)****
 
 ## 🚀 Возможности
 
